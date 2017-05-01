@@ -1,0 +1,5 @@
+C:\電腦網路\五子棋 封測\Information\bin\Debug\Information.dll
+C:\電腦網路\五子棋 封測\Information\bin\Debug\Information.pdb
+C:\電腦網路\五子棋 封測\Information\obj\Debug\Information.dll
+C:\電腦網路\五子棋 封測\Information\obj\Debug\Information.pdb
+C:\電腦網路\五子棋 封測\Information\obj\Debug\Information.csprojResolveAssemblyReference.cache

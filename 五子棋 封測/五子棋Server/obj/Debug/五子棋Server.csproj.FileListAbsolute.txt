@@ -1,0 +1,11 @@
+C:\電腦網路\五子棋 封測\五子棋Server\bin\Debug\五子棋Server.exe.config
+C:\電腦網路\五子棋 封測\五子棋Server\bin\Debug\五子棋Server.exe
+C:\電腦網路\五子棋 封測\五子棋Server\bin\Debug\五子棋Server.pdb
+C:\電腦網路\五子棋 封測\五子棋Server\bin\Debug\Information.dll
+C:\電腦網路\五子棋 封測\五子棋Server\bin\Debug\Information.pdb
+C:\電腦網路\五子棋 封測\五子棋Server\obj\Debug\五子棋Server.csprojResolveAssemblyReference.cache
+C:\電腦網路\五子棋 封測\五子棋Server\obj\Debug\五子棋Server.Properties.Resources.resources
+C:\電腦網路\五子棋 封測\五子棋Server\obj\Debug\五子棋Server.ServerForm.resources
+C:\電腦網路\五子棋 封測\五子棋Server\obj\Debug\五子棋Server.csproj.GenerateResource.Cache
+C:\電腦網路\五子棋 封測\五子棋Server\obj\Debug\五子棋Server.exe
+C:\電腦網路\五子棋 封測\五子棋Server\obj\Debug\五子棋Server.pdb

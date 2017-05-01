@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "五子棋Client", "五子棋Client\五子棋Client.csproj", "{A28B5D67-FAAF-4891-B858-8A2432510173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Information", "Information\Information.csproj", "{E70BBBF2-A2B1-4ED5-A109-F02E15ABD7A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "五子棋Server", "五子棋Server\五子棋Server.csproj", "{D9E71EAE-6581-4FA8-95F7-5CA19C497492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A28B5D67-FAAF-4891-B858-8A2432510173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28B5D67-FAAF-4891-B858-8A2432510173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28B5D67-FAAF-4891-B858-8A2432510173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28B5D67-FAAF-4891-B858-8A2432510173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E70BBBF2-A2B1-4ED5-A109-F02E15ABD7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70BBBF2-A2B1-4ED5-A109-F02E15ABD7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70BBBF2-A2B1-4ED5-A109-F02E15ABD7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70BBBF2-A2B1-4ED5-A109-F02E15ABD7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E71EAE-6581-4FA8-95F7-5CA19C497492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E71EAE-6581-4FA8-95F7-5CA19C497492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E71EAE-6581-4FA8-95F7-5CA19C497492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E71EAE-6581-4FA8-95F7-5CA19C497492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
